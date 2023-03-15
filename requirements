@@ -1,0 +1,8 @@
+Imports Used: 
+
+import numpy as np
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
+
+hen a user wants to run the simulation on their local machine, they can install these packages by running pip install -r requirements.txt in the command line.
+
